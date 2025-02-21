@@ -30,7 +30,6 @@ body {
     justify-content: center;
     align-items: center;
     background: #13a5df;
-    gap: 2rem;
     width: 50%;
     border-bottom-right-radius: 80%;
 }
@@ -229,7 +228,7 @@ body {
     }
 
     .Left-container .content-container {
-        padding: 2rem 0;
+        padding: 1rem 0;
     }
 }
 
@@ -249,7 +248,7 @@ body {
 }
 @media screen and (max-width:450px) {
     .Left-container {
-        height: 50%;
+        height: 80%;
     }
     
     .input-box {
